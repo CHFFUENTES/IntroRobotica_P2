@@ -10,3 +10,4 @@ Esto se logrará a través de varios laboratorios, que se irán construyendo suc
 - Abrir File-> Open Sample World -> Robots -> gctronic -> e-puck_botstudio_with_floor_sensors.wbt
 - Crear un nueco controlador para el e-puck, y hacerlo en python con el codigo de base ofrecido
     -  https://github.com/CHFFUENTES/IntroRobotica_P2/blob/b4aa7af3fb209711063769f8a95d393c7a282b77/LineFollowing_Inspiracion
+    -  LineFollowing_Inspiracion
