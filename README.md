@@ -3,7 +3,7 @@
 La finalidad de este proyecto es poder hacer que el robot siga una trayectoria, que se especifica mediante varios puntos en el espacio por los cuales debe pasar. 
 Esto se logrará a través de varios laboratorios, que se irán construyendo sucesivamente sobre el anterior. 
 
-##Laboratorio 1
+## Laboratorio 1
 - Instalacion de webots
 - Seguir este tutorial: https://cyberbotics.com/doc/guide/tutorial-1-your-first-simulation-in-webots
 - Usar Python en Webots. 
