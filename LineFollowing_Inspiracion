@@ -72,10 +72,10 @@ while robot.step(timestep) != -1:
 
         # check if it is necessary to update current_state
         if line_right and not line_left:
-          #Agregar aqui texto para este caso 
+            #Agregar aqui texto para este caso 
 
         elif line_left and not line_right:
-          #Agregar aqui texto para este caso 
+            #Agregar aqui texto para este caso 
             
     if current_state == 'turn_right':
         # Action for the current state: update speed variables
